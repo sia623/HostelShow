@@ -1,7 +1,7 @@
 # HostelShow
 
 
-HostelBaddie is a web application designed to facilitate borrowing, selling, and managing items within a hostel community. The platform fosters a collaborative and sustainable environment by enabling students to exchange goods and services easily.
+HostelShow is a web application designed to facilitate borrowing, selling, and managing items within a hostel community. The platform fosters a collaborative and sustainable environment by enabling students to exchange goods and services easily.
 
 ## Features
 
